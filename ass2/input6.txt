@@ -1,0 +1,29 @@
+# Feel the powers of 2
+Unloading 2 Sydney
+Unloading 4 A
+Unloading 8 B
+Unloading 16 C
+Unloading 32 D
+Unloading 64 E
+Unloading 128 F
+Unloading 256 G
+# Road to home
+Cost 13 Sydney A
+Cost 13 A B
+Cost 50 A D
+Cost 25 B C
+Cost 100 B D
+Cost 75 B E
+Cost 96 C E
+Cost 54 D F
+Cost 65 D G
+Cost 12 E F
+Cost 1 F G
+# Plenty of jobs, get going!
+Job Sydney A
+Job B C
+Job D G
+Job E B
+Job F G
+Job E C
+Job D F

@@ -1,0 +1,10 @@
+Unloading 100 Sydney
+Unloading 100 B
+Unloading 100 C
+Unloading 100 D
+Unloading 100 E
+Cost 20 Sydney B
+Cost 40 D C
+Cost 20 C E
+Job Sydney B
+Job C E # No roads leads to Athens

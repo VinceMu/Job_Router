@@ -1,0 +1,11 @@
+Unloading 120 Sydney           # Unloading cost is 120 in Sydney
+Unloading 80 Dubbo             # Unloading cost is 80 in Dubbo
+Unloading 80 Grafton           # Unloading cost is 80 in Grafton
+Unloading 120 Wagga            # Unloading cost is 120 in Wagga
+Unloading 160 Bathurst         # Unloading cost is 160 in Bathurst
+Cost 360 Sydney Wagga          # Travel cost is 360 from Sydney to Wagga
+Cost 200 Sydney Bathurst       # Travel cost is 200 from Sydney to Bathurst
+Cost 200 Dubbo Grafton         # Travel cost is 200 from Dubbo to Grafton
+Cost 400 Wagga Bathurst        # Travel cost is 400 from Wagga to Bathurst
+Job Sydney Bathurst            # Job is required from Sydney to Bathurst
+Job Dubbo Grafton 

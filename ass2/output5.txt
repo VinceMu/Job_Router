@@ -1,0 +1,9 @@
+96 nodes expanded
+cost = 1100
+Job Sydney to S
+Job S to EN
+Empty EN to D
+Empty D to N
+Job N to U
+Empty U to DE
+Job DE to Z
